@@ -48,6 +48,7 @@ pipeline {
         stage('Branche') {
             steps {
                 echo "main"
+                echo "AJOUT"
             }
         }
     }
