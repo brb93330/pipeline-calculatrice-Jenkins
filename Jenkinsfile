@@ -45,5 +45,10 @@ pipeline {
                 }
             }
         }
+        stage('Branche') {
+            steps {
+                echo "Test_Branche"
+            }
+        }
     }
 }
