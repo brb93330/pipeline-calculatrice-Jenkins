@@ -48,7 +48,7 @@ pipeline {
         stage('Branche') {
             steps {
                 echo "main"
-                echo "AJOUT BIS TER"
+                echo "AJOUT BIS TER 4"
             }
         }
     }
